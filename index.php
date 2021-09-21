@@ -200,7 +200,7 @@ session_start();
             <div class="col text-center">
             <!-- ------------- API YOUTUBE GET NOM VIDEO -------------- -->
             <?php
-                $api_key = "AIzaSyCMpz3Jc1OnJos5kZdfuMEX7Bbk_yhK3Vc";
+                $api_key = "apikeyhere";
                 $video_id = "l4bf7pjcYYw";
                 if(isset($_GET['id']))
                 {
