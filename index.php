@@ -159,6 +159,7 @@ session_start();
 </div>
 
     <hr>
+    
 
 <div class="container text-center" id="section-jeu">
     <div class="row">
