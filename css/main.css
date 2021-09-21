@@ -1,0 +1,16 @@
+html {
+    scroll-behavior: smooth;
+  }
+
+
+
+
+#scrollable {
+    height:400pt;
+    overflow:auto;
+    border: cyan 2px solid;
+    background-color: rgb(200, 200, 255);
+    color: black;
+
+}
+
